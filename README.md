@@ -15,7 +15,8 @@ Hospitals and private clinics experience significant revenue loss when patients 
 
 
 ### Custom Risk-Flag Engineering Logic
-![Spreadsheet Engineering](2_sheets_formula.png)
+<img width="1855" height="497" alt="_sheets_formula" src="https://github.com/user-attachments/assets/25c050c1-a0de-44f2-8b51-7ab06f280568" />
+
 
 ---
 
