@@ -26,10 +26,11 @@ Hospitals and private clinics experience significant revenue loss when patients 
 - *Production Delivery:* Wired an active Gmail API node to dynamically deliver the tailored, empathetic notification drafts directly to the user's inbox channel.
 
 ### Workflow Automation Map
-![Make.com Automation Map](3_make_automation.png)
+<img width="1840" height="1001" alt="_make_automation" src="https://github.com/user-attachments/assets/d3ce2501-b94f-4c50-958a-f1aa9497ec10" />
 
 ### Final Production Email Verification
-![Final Production Email](4_email_output.png)
+<img width="1102" height="562" alt="_email_output" src="https://github.com/user-attachments/assets/4410b997-5e6b-4082-8399-36c39db946b1" />
+
 
 ---
 
