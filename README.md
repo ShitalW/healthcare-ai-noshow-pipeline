@@ -11,7 +11,8 @@ Hospitals and private clinics experience significant revenue loss when patients 
 - *Key Insight:* Built a dynamic Power BI dashboard proving that patient age group is a powerful predictor of missed appointments (younger patients miss significantly more appointments), while gender factors show no statistical correlation.
 
 ### Power BI Trend Analytics
-![Power BI Analytics](1_powerbi_chart.png)
+<img width="1127" height="797" alt="_powerbi_chart" src="https://github.com/user-attachments/assets/6be677e9-e746-4af6-a400-b14e21f1dcbe" />
+
 
 ### Custom Risk-Flag Engineering Logic
 ![Spreadsheet Engineering](2_sheets_formula.png)
